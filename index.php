@@ -1,10 +1,10 @@
 <?php
 // Personal details
-$name = "John Doe";
-$age = 25;
-$email = "johndoe@example.com";
-$phone = "+123-456-7890";
-$address = "123 Main Street, Springfield, USA";
+$name = "Suresh Dangaura";
+$age = 35;
+$email = "dangauras@gmail.com";
+$phone = "9848544459";
+$address = "123 Main Street, bardagoriya, Muda";
 $hobbies = ["Coding", "Gaming", "Reading", "Traveling"];
 ?>
 
